@@ -1,0 +1,15 @@
+{
+  "name": "conflicttest",
+  "version": "1.0.0",
+  "description": "Test to support conflict management exercise",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ML",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
